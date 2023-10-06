@@ -2,7 +2,7 @@
 ---
 ## Te raden woord
 
-|-|-|-|-|-|-|
+|-|-|-|-|-|L|
 ---
 ## foute letters
 F G
@@ -11,4 +11,3 @@ F G
 ![gallowstage1](./images/3.png)
 ---
 ## Beurten
-L
