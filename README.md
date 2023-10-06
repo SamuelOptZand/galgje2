@@ -5,10 +5,10 @@
 |-|-|-|-|-|-|
 ---
 ## foute letters
-
+F
 ---
 ## Score
-![gallowstage1](./images/1.png)
+![gallowstage1](./images/2.png)
 ---
 ## Beurten
 F
