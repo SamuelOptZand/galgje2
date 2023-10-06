@@ -2,7 +2,7 @@
 ---
 ## Te raden woord
 
-|-|-|-|-|-|L|
+|s|c|h|o|o|L|
 ---
 ## foute letters
 F G A E U I
