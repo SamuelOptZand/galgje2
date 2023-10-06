@@ -8,6 +8,6 @@
 
 ---
 ## Score
-![gallowstage1](./"C:\Users\newne\Downloads\1.png")
+![gallowstage1](./images/1.png)
 ---
 ## Beurten
