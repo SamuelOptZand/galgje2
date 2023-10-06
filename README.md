@@ -8,6 +8,6 @@
 F G A E U
 ---
 ## Score
-![gallowstage1](./images/5.png)
+![gallowstage1](./images/6.png)
 ---
 ## Beurten
